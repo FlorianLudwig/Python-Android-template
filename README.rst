@@ -89,7 +89,7 @@ The contents of `app.py` needs to do two things:
 
 The following would be a simple example of an ``app.py`` that could be used::
 
-    from android import PythonActiity
+    from android import PythonActivity
 
 
     class MyApplication:
